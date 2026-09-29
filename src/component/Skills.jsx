@@ -1,8 +1,8 @@
 const skillGroups = [
     { category: "Frontend", items: ["React", "Angular", "JavaScript", "HTML/CSS"] },
-    { category: "Backend", items: ["Node.js", ".NET", "Express"] },
+    { category: "Backend", items: [ ".NET", "Express"] },
     { category: "Database", items: ["MongoDB", "SQL Server"] },
-    { category: "Workflow", items: ["Git basics","Repository setup"] },
+    { category: "Workflow", items: ["Git basics"] },
 ]
 
 function Skills() {
